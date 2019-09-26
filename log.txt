@@ -1,0 +1,936 @@
+**********SONG INFO*********
+0
+song name: Fight Song
+preview song: https://p.scdn.co/mp3-preview/e637c2d18133fe780d89df9e603028661a19c818?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wildfire
+artist(s): Rachel Platten
+*****************************
+**********SONG INFO*********
+1
+song name: I Am Moana (Song of the Ancestors)
+preview song: null
+album: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+artist(s): Rachel House
+*****************************
+**********SONG INFO*********
+2
+song name: Where You Are
+preview song: null
+album: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+artist(s): Christopher Jackson
+*****************************
+**********SONG INFO*********
+3
+song name: Stand By You
+preview song: https://p.scdn.co/mp3-preview/42ae0e6a35961e8655bf78bd432d96ebf1d5e84d?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wildfire
+artist(s): Rachel Platten
+*****************************
+**********SONG INFO*********
+4
+song name: Honey, Honey - From 'Mamma Mia!' Original Motion Picture Soundtrack
+preview song: null
+album: Mamma Mia! The Movie Soundtrack
+artist(s): Amanda Seyfried
+*****************************
+**********SONG INFO*********
+5
+song name: Anybody Have a Map?
+preview song: https://p.scdn.co/mp3-preview/68b186dcfbf1c67308f32b196e60ae7e7f42f8f7?cid=e7af5d95ae694bae91b785fd0c898333
+album: Dear Evan Hansen (Original Broadway Cast Recording)
+artist(s): Rachel Bay Jones
+*****************************
+**********SONG INFO*********
+6
+song name: Good For You
+preview song: https://p.scdn.co/mp3-preview/ab5edeb46cdd03820ffc8e036439a69e35bdab4a?cid=e7af5d95ae694bae91b785fd0c898333
+album: Dear Evan Hansen (Original Broadway Cast Recording)
+artist(s): Rachel Bay Jones
+*****************************
+**********SONG INFO*********
+7
+song name: Collide
+preview song: https://p.scdn.co/mp3-preview/256be8bb1707fe6ca0508c84b7f54446a133d10b?cid=e7af5d95ae694bae91b785fd0c898333
+album: Waves
+artist(s): Rachel Platten
+*****************************
+**********SONG INFO*********
+8
+song name: Shivers
+preview song: https://p.scdn.co/mp3-preview/418a06d953fcf4dff106dcf727b06d9018e37b47?cid=e7af5d95ae694bae91b785fd0c898333
+album: Waves
+artist(s): Rachel Platten
+*****************************
+**********SONG INFO*********
+9
+song name: Better Place
+preview song: https://p.scdn.co/mp3-preview/38cd8171508724b9f3325a2e85b8f28dfd3858be?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wildfire
+artist(s): Rachel Platten
+*****************************
+**********SONG INFO*********
+10
+song name: Gimme! Gimme! Gimme! (A Man After Midnight) - From 'Mamma Mia!' Original Motion Picture Soundtrack
+preview song: null
+album: Mamma Mia! The Movie Soundtrack
+artist(s): Amanda Seyfried
+*****************************
+**********SONG INFO*********
+11
+song name: So Big / So Small
+preview song: https://p.scdn.co/mp3-preview/455d2d168f36b20d103b8b3c1eee6b5efde123ca?cid=e7af5d95ae694bae91b785fd0c898333
+album: Dear Evan Hansen (Original Broadway Cast Recording)
+artist(s): Rachel Bay Jones
+*****************************
+**********SONG INFO*********
+12
+song name: Hey Rachel
+preview song: null
+album: okay.
+artist(s): AS IT IS
+*****************************
+**********SONG INFO*********
+13
+song name: Broken Glass
+preview song: https://p.scdn.co/mp3-preview/b9ae1c5bfb42e82e611fc6f9cfda512997c251ba?cid=e7af5d95ae694bae91b785fd0c898333
+album: Waves
+artist(s): Rachel Platten
+*****************************
+**********SONG INFO*********
+14
+song name: Main Title
+preview song: https://p.scdn.co/mp3-preview/09186e7f924b49cf7948a1f4d6bc363c04b540dc?cid=e7af5d95ae694bae91b785fd0c898333
+album: Chocolat (Original Motion Picture Soundtrack)
+artist(s): Rachel Portman
+*****************************
+**********SONG INFO*********
+15
+song name: Rachel Green
+preview song: https://p.scdn.co/mp3-preview/66f625b9c5ac28e3449035cb4db585f51d716636?cid=e7af5d95ae694bae91b785fd0c898333
+album: Rachel Green
+artist(s): Ruben Young
+*****************************
+**********SONG INFO*********
+16
+song name: Something People Say - Acoustic
+preview song: https://p.scdn.co/mp3-preview/5592a733b8aa9978b9ad68c4d303036d76326fc1?cid=e7af5d95ae694bae91b785fd0c898333
+album: Something People Say (Acoustic)
+artist(s): Rachel Wammack
+*****************************
+**********SONG INFO*********
+17
+song name: Shine a Light
+preview song: https://p.scdn.co/mp3-preview/a7ecaa29e58dadebf6c8e6f7d104f91db65307ac?cid=e7af5d95ae694bae91b785fd0c898333
+album: Heathers: The Musical (World Premiere Cast Recording)
+artist(s): Michelle Duffy
+*****************************
+**********SONG INFO*********
+18
+song name: Rachel's Song
+preview song: https://p.scdn.co/mp3-preview/912bf28e5a17c64cdc1c4f7d19adbdfd59f1fb7a?cid=e7af5d95ae694bae91b785fd0c898333
+album: Blade Runner (Music From The Original Soundtrack)
+artist(s): Vangelis
+*****************************
+**********SONG INFO*********
+19
+song name: We Had Today
+preview song: null
+album: One Day OST
+artist(s): Rachel Portman
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e7af5d95ae694bae91b785fd0c898333
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e7af5d95ae694bae91b785fd0c898333
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e7af5d95ae694bae91b785fd0c898333
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e7af5d95ae694bae91b785fd0c898333
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e7af5d95ae694bae91b785fd0c898333
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e7af5d95ae694bae91b785fd0c898333
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e7af5d95ae694bae91b785fd0c898333
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e7af5d95ae694bae91b785fd0c898333
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e7af5d95ae694bae91b785fd0c898333
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e7af5d95ae694bae91b785fd0c898333
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e7af5d95ae694bae91b785fd0c898333
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e7af5d95ae694bae91b785fd0c898333
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e7af5d95ae694bae91b785fd0c898333
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=e7af5d95ae694bae91b785fd0c898333
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=e7af5d95ae694bae91b785fd0c898333
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e7af5d95ae694bae91b785fd0c898333
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e7af5d95ae694bae91b785fd0c898333
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=e7af5d95ae694bae91b785fd0c898333
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+0
+song name: Wild Wild West (feat. Gunna)
+preview song: null
+album: FATHER OF 4
+artist(s): Offset
+*****************************
+**********SONG INFO*********
+1
+song name: Wild West
+preview song: https://p.scdn.co/mp3-preview/c88a633bda8832072188b9043f02d655e68e141c?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wild West
+artist(s): Dennis Lloyd
+*****************************
+**********SONG INFO*********
+2
+song name: Wild Wild West - Album Version With Intro
+preview song: https://p.scdn.co/mp3-preview/3adf0f00d728e3ab23c7dd167dbaedfdcd2ef6fe?cid=e7af5d95ae694bae91b785fd0c898333
+album: Willennium
+artist(s): Will Smith
+*****************************
+**********SONG INFO*********
+3
+song name: Wild West
+preview song: https://p.scdn.co/mp3-preview/f3423e52c2a793bdc8f1df6776462132fc78f748?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wild West
+artist(s): Dennis Lloyd
+*****************************
+**********SONG INFO*********
+4
+song name: Wild West
+preview song: https://p.scdn.co/mp3-preview/90c7d672aafc51d2fe418d80fb71cf90b59bf17b?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wild West
+artist(s): Runaway June
+*****************************
+**********SONG INFO*********
+5
+song name: Wild Wild West
+preview song: https://p.scdn.co/mp3-preview/aac6705961be9ad72dc676596e9b8e5c67f016b2?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wild Wild West
+artist(s): The Escape Club
+*****************************
+**********SONG INFO*********
+6
+song name: Bad Guys Always Die - From "Wild Wild West" Soundtrack
+preview song: null
+album: The Slim Shady LP (Expanded Edition)
+artist(s): Eminem
+*****************************
+**********SONG INFO*********
+7
+song name: Wild Wild West - Album Version - No Intro
+preview song: https://p.scdn.co/mp3-preview/c0a812b0d921d524bb77b0f24be24d431f4c628d?cid=e7af5d95ae694bae91b785fd0c898333
+album: Greatest Hits
+artist(s): Will Smith
+*****************************
+**********SONG INFO*********
+8
+song name: Wild Wild West
+preview song: https://p.scdn.co/mp3-preview/b5527205e5ded6d1012a4ef8467ee9caa61cd9c1?cid=e7af5d95ae694bae91b785fd0c898333
+album: How Ya Like Me Now (Expanded Edition)
+artist(s): Kool Moe Dee
+*****************************
+**********SONG INFO*********
+9
+song name: Wild West End
+preview song: https://p.scdn.co/mp3-preview/6a72e851ea6a78afff17f89755aa8a16241e62dc?cid=e7af5d95ae694bae91b785fd0c898333
+album: Dire Straits
+artist(s): Dire Straits
+*****************************
+**********SONG INFO*********
+10
+song name: Wild, Wild West
+preview song: https://p.scdn.co/mp3-preview/3811a56da8d3fbe72797de5a887f59992d50fab0?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wild. Wild West
+artist(s): The Escape Club
+*****************************
+**********SONG INFO*********
+11
+song name: Wild West Show
+preview song: https://p.scdn.co/mp3-preview/cef6444b1dea507c1e9b61560caba8b260c384ae?cid=e7af5d95ae694bae91b785fd0c898333
+album: Horse Of A Different Color
+artist(s): Big & Rich
+*****************************
+**********SONG INFO*********
+12
+song name: Wild West Hero
+preview song: https://p.scdn.co/mp3-preview/58d3e1c9eaa4297ff48c50d1fc574ee04c322e8b?cid=e7af5d95ae694bae91b785fd0c898333
+album: Out of the Blue
+artist(s): Electric Light Orchestra
+*****************************
+**********SONG INFO*********
+13
+song name: Wild Wild West
+preview song: https://p.scdn.co/mp3-preview/e7dfdf9ee368c763c6d84aa77cf5c9b82b272da6?cid=e7af5d95ae694bae91b785fd0c898333
+album: Set Lasers to Funk, Vol. 1
+artist(s): FiLiBuStA
+*****************************
+**********SONG INFO*********
+14
+song name: Wild Like the West
+preview song: https://p.scdn.co/mp3-preview/2cc9b0f56ef931a75333ddd6057a4dfa41939472?cid=e7af5d95ae694bae91b785fd0c898333
+album: Wild Like the West
+artist(s): Jenna Paulette
+*****************************
+**********SONG INFO*********
+15
+song name: Wild Wild West
+preview song: https://p.scdn.co/mp3-preview/e0c57f20351319b7aafe6125d24f86bad68c403a?cid=e7af5d95ae694bae91b785fd0c898333
+album: Backwoods Badass
+artist(s): Outlaw
+*****************************
+**********SONG INFO*********
+16
+song name: Wild Wild West
+preview song: null
+album: Anything Goes
+artist(s): Randy Houser
+*****************************
+**********SONG INFO*********
+17
+song name: Wild West (feat. Yung Weej)
+preview song: https://p.scdn.co/mp3-preview/fd36673c2902302a4b7b558220dbf87bcdcea6a0?cid=e7af5d95ae694bae91b785fd0c898333
+album: Yung Bans Vol. 3
+artist(s): Yung Bans
+*****************************
+**********SONG INFO*********
+18
+song name: High Come Down
+preview song: null
+album: Wild N' Tha West
+artist(s): Chico & Coolwadda
+*****************************
+**********SONG INFO*********
+19
+song name: No Church in the Wild
+preview song: https://p.scdn.co/mp3-preview/e8199b705582041e4c235461da2797542ff637b1?cid=e7af5d95ae694bae91b785fd0c898333
+album: Soul Movements 2
+artist(s): A Surgeon
+*****************************
+**********MOVIE INFO*********
+Title: Catfish
+Release Year: 2010
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 80%
+Country of Production: USA
+Language: English
+Plot: Young filmmakers document their colleague's budding online friendship with a young woman and her family which leads to an unexpected series of discoveries.
+Actors: Nev Schulman, Ariel Schulman, Henry Joost, Angela Wesselman-Pierce
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e7af5d95ae694bae91b785fd0c898333
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e7af5d95ae694bae91b785fd0c898333
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e7af5d95ae694bae91b785fd0c898333
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e7af5d95ae694bae91b785fd0c898333
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e7af5d95ae694bae91b785fd0c898333
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e7af5d95ae694bae91b785fd0c898333
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e7af5d95ae694bae91b785fd0c898333
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e7af5d95ae694bae91b785fd0c898333
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e7af5d95ae694bae91b785fd0c898333
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e7af5d95ae694bae91b785fd0c898333
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e7af5d95ae694bae91b785fd0c898333
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e7af5d95ae694bae91b785fd0c898333
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e7af5d95ae694bae91b785fd0c898333
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=e7af5d95ae694bae91b785fd0c898333
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=e7af5d95ae694bae91b785fd0c898333
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e7af5d95ae694bae91b785fd0c898333
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e7af5d95ae694bae91b785fd0c898333
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=e7af5d95ae694bae91b785fd0c898333
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Toyota Center
+Venue Location: Houston
+Date of the Event: 2019-09-26T19:00:50
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: AT&T Center
+Venue Location: San Antonio
+Date of the Event: 2019-09-27T19:00:30
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: BOK Center
+Venue Location: Tulsa
+Date of the Event: 2019-09-29T19:00:06
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Pepsi Center
+Venue Location: Denver
+Date of the Event: 2019-10-01T19:00:33
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Vivint Smart Home Arena
+Venue Location: Salt Lake City
+Date of the Event: 2019-10-03T19:00:16
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Talking Stick Resort Arena
+Venue Location: Phoenix
+Date of the Event: 2019-10-05T19:00:57
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Honda Center
+Venue Location: Anaheim
+Date of the Event: 2019-10-06T19:00:32
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Chase Center
+Venue Location: San Francisco
+Date of the Event: 2019-10-08T19:00:13
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Rogers Arena
+Venue Location: Vancouver
+Date of the Event: 2019-10-11T19:00:53
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Tacoma Dome
+Venue Location: Tacoma
+Date of the Event: 2019-10-12T19:00:23
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Moda Center
+Venue Location: Portland
+Date of the Event: 2019-10-13T19:00:58
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Golden 1 Center
+Venue Location: Sacramento
+Date of the Event: 2019-10-15T19:00:28
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Pechanga Arena San Diego
+Venue Location: San Diego
+Date of the Event: 2019-10-17T19:00:55
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: MGM Grand Garden Arena
+Venue Location: Las Vegas
+Date of the Event: 2019-10-18T19:00:36
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Hollywood Bowl
+Venue Location: Hollywood
+Date of the Event: 2019-10-19T18:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Hollywood Bowl
+Venue Location: Los Angeles
+Date of the Event: 2019-10-20T19:00:18
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Hollywood Bowl
+Venue Location: Los Angeles
+Date of the Event: 2019-10-21T19:00:02
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Auditorio Citibanamex
+Venue Location: Monterrey
+Date of the Event: 2019-10-27T19:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Auditorio Citibanamex
+Venue Location: Monterrey
+Date of the Event: 2019-10-28T19:00:37
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Palacio de los Deportes
+Venue Location: Ciudad De México
+Date of the Event: 2019-10-30T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Palacio de los Deportes
+Venue Location: Ciudad De México
+Date of the Event: 2019-10-31T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Arena VFG
+Venue Location: Fraccionamiento Los Silos
+Date of the Event: 2019-11-02T19:00:08
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Smoothie King Center
+Venue Location: New Orleans
+Date of the Event: 2019-11-12T19:00:48
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Legacy Arena at the BJCC
+Venue Location: Birmingham
+Date of the Event: 2019-11-13T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: BB&T Center
+Venue Location: Sunrise
+Date of the Event: 2019-11-15T19:00:26
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Amway Center
+Venue Location: Orlando
+Date of the Event: 2019-11-16T19:00:57
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: VyStar Veterans Memorial Arena
+Venue Location: Jacksonville
+Date of the Event: 2019-11-17T19:00:07
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Infinite Energy Arena
+Venue Location: Duluth
+Date of the Event: 2019-11-19T19:00:40
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Spectrum Center
+Venue Location: Charlotte
+Date of the Event: 2019-11-20T19:00:34
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Prudential Center
+Venue Location: Newark
+Date of the Event: 2019-11-22T19:00:05
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-11-23T19:00:30
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-11-24T19:00:56
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto
+Date of the Event: 2019-11-26T19:00:08
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Bell Centre
+Venue Location: Montreal
+Date of the Event: 2019-11-27T19:00:53
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Boardwalk Hall
+Venue Location: Atlantic City
+Date of the Event: 2019-11-29T19:00:27
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Royal Farms Arena
+Venue Location: Baltimore
+Date of the Event: 2019-11-30T19:00:55
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Allstate Arena
+Venue Location: Rosemont
+Date of the Event: 2019-12-03T19:00:22
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: CHI Health Center Omaha
+Venue Location: Omaha
+Date of the Event: 2019-12-04T19:00:53
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: American Airlines Center
+Venue Location: Dallas
+Date of the Event: 2019-12-06T19:00:19
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Frank C. Erwin, Jr., Special Events Center
+Venue Location: Austin
+Date of the Event: 2019-12-07T19:00:45
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Talking Stick Resort Arena
+Venue Location: Phoenix
+Date of the Event: 2019-12-10T19:00:10
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Oracle Arena
+Venue Location: Oakland
+Date of the Event: 2019-12-12T19:00:35
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-14T19:00:10
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-15T19:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: The Cove Atlantis
+Venue Location: Nassau
+Date of the Event: 2019-12-30T19:00:00
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: Arena Birmingham
+Venue Location: Birmingham
+Date of the Event: 2020-01-29T19:00:00
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: 3Arena
+Venue Location: Dublin 1
+Date of the Event: 2020-01-31T19:00:00
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: The O2
+Venue Location: London
+Date of the Event: 2020-02-02T19:00:00
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: The SSE Arena, Wembley
+Venue Location: London
+Date of the Event: 2020-02-03T19:00:00
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: The SSE Hydro
+Venue Location: Glasgow
+Date of the Event: 2020-02-05T19:00:00
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: Manchester Arena
+Venue Location: Manchester
+Date of the Event: 2020-02-06T19:00:00
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: Lotto Arena
+Venue Location: Antwerpen
+Date of the Event: 2020-02-08T19:00:00
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Berlin
+Date of the Event: 2020-02-10T19:00:00
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: Lanxess Arena
+Venue Location: Köln
+Date of the Event: 2020-02-11T19:00:00
+*****************************
+**********EVENT INFO*********
+54
+Name of the Venue: Hallenstadion
+Venue Location: Zürich
+Date of the Event: 2020-02-13T19:00:00
+*****************************
+**********EVENT INFO*********
+55
+Name of the Venue: Mediolanum Forum
+Venue Location: Assago
+Date of the Event: 2020-02-14T19:00:00
+*****************************
+**********EVENT INFO*********
+56
+Name of the Venue: Wizin Center
+Venue Location: Madrid
+Date of the Event: 2020-02-16T19:00:00
+*****************************
+**********EVENT INFO*********
+57
+Name of the Venue: Palau Sant Jordi
+Venue Location: Barcelona
+Date of the Event: 2020-02-17T19:00:00
+*****************************
+**********EVENT INFO*********
+58
+Name of the Venue: SUD DE FRANCE ARENA
+Venue Location: Pérols
+Date of the Event: 2020-02-18T19:00:00
+*****************************
+**********EVENT INFO*********
+59
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2020-02-20T19:00:00
+*****************************
+**********EVENT INFO*********
+60
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2020-02-22T19:00:00
+*****************************
