@@ -5,13 +5,13 @@ LIRIBOT is a Language Interpretation and Recognition Interface, similar to Amazo
 
 # Technologies Used:
  * APIs:
-    * -Spotify
-    * -OMDB
-    * -Bands in Town
+    * Spotify
+    * OMDB
+    * Bands in Town
 
 * Programming Language:
-    * -Javascript
-    * -Node 
+    * Javascript
+    * Node 
 
 * NPM Depndencies within Node
     * .gitignore
@@ -29,7 +29,7 @@ There are 4 key ways to use the LIRIBOT. All involve using the terminal commands
 Search for Song using Spotify-this-song
 ![](images/Spotify-this-song.png)
 
-* 2) Users can also search for movie information using the movie-this command. This will pull information from the OMDB API and provide information from imdb including plot, language, release year, imdb rating, rotton tomatoes rating, actors and language. If the user does not type a movie but uses this command in the terminal, then the information will pull up OMDB data for the movie, "Mr. Nobody"
+* 2)Users can also search for movie information using the movie-this command. This will pull information from the OMDB API and provide information from imdb including plot, language, release year, imdb rating, rotton tomatoes rating, actors and language. If the user does not type a movie but uses this command in the terminal, then the information will pull up OMDB data for the movie, "Mr. Nobody"
 Search for Movie using movie-this
 ![](images/movie-this.png)
 
