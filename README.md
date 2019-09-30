@@ -1,7 +1,7 @@
 # Welcome to LIRIBOT
 
 Overview:
-LIRIBOT is a Language Interpretation and Recognition Interface, similar to Amazon's Alexa or Apple's SIRI. However LIRI has a key difference in that it uses language interpretation instead of speech interpretation. This is a extrememly user-friendly technolgy that can enhance any music or movie lover's experience. 
+LIRIBOT is a Language Interpretation and Recognition Interface, similar to Amazon's Alexa or Apple's SIRI. However LIRI has a key difference in that it uses language interpretation instead of speech interpretation. This is an extrememly user-friendly technolgy that can enhance any music or movie lover's experience. 
 
 # Technologies Used:
  * APIs:
@@ -25,15 +25,15 @@ LIRIBOT is a Language Interpretation and Recognition Interface, similar to Amazo
 # Instructions:
 There are 4 key ways to use the LIRIBOT. All involve using the terminal commands to pull api information. 
 
-* 1)The first is to search fro a song using the Spotify-this-song command. This will pull song information from the spotify API including song name, artist, and album. If the user does not enter a song but uses this command, then the commant will pull up the song "I saw the sign" by Ace of Base
+* 1)The first is to search for a song using the Spotify-this-song command. This will pull song information from the spotify API including song name, artist, and album. If the user does not enter a song but uses this command, then the command will pull up the song "I saw the sign" by Ace of Base
 Search for Song using Spotify-this-song
 ![](images/Spotify-this-song.png)
 
-* 2)Users can also search for movie information using the movie-this command. This will pull information from the OMDB API and provide information from imdb including plot, language, release year, imdb rating, rotton tomatoes rating, actors and language. If the user does not type a movie but uses this command in the terminal, then the information will pull up OMDB data for the movie, "Mr. Nobody"
+* 2)Users can also search for movie information using the movie-this command. This will pull information from the OMDB API and provide information including the plot, language, release year, imdb rating, rotton tomatoes rating, actors and language. If the user does not type a movie but uses this command in the terminal, then the command will pull up OMDB data for the movie, "Mr. Nobody"
 Search for Movie using movie-this
 ![](images/movie-this.png)
 
-* 3)Next there is the concert-this command which uses the bands in town API where uses can access information about their favorite bands upcoming dates and venues. 
+* 3)Next, there is the concert-this command which uses the bands in town API where uses can access information about their favorite bands upcoming dates and venues. The example in the image below shows an example of the Jonas brothers and informaiton about their upcoming tour dates.
 Search for concert using concert-this
 ![](images/concert-this.png)
 
