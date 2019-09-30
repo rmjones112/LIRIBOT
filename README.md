@@ -1,7 +1,7 @@
 # Welcome to LIRIBOT
 
 Overview:
-LIRIBOT is a Language Interpretation and Recognition Interface, similar to Amazon's Alexa of Apple's SIRI. The difference is that LIRI uses language interpretation instead of speech interpretation. This is a extrememly user-friendly technolgy that can enhance any music or movie lover's experience.
+LIRIBOT is a Language Interpretation and Recognition Interface, similar to Amazon's Alexa or Apple's SIRI. However LIRI has a key difference in that it uses language interpretation instead of speech interpretation. This is a extrememly user-friendly technolgy that can enhance any music or movie lover's experience. 
 
 # Technologies Used:
  * APIs:
